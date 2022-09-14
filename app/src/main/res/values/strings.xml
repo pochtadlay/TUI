@@ -244,6 +244,7 @@
     <string name="help_brightness">Set the brightness of your device
         \n$ brightness [0-100]</string>
     <string name="help_clear">Clear the screen</string>
+    <string name="help_random">Random integer number from 1..100 range</string>
     <string name="help_calc" formatted="false">Perform basic operations (+ - * / % ^ sqrt)
         \nExample:
         \n\n$ calc 4+2-5

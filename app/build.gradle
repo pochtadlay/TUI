@@ -48,9 +48,9 @@ android {
     }
 }
 dependencies {
-    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
-    implementation 'net.sourceforge.htmlcleaner:htmlcleaner:2.6'
-    implementation 'com.jayway.jsonpath:json-path:2.4.0'
-    implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.squareup.okhttp3:okhttp:5.0.0-alpha.10'
+    implementation 'net.sourceforge.htmlcleaner:htmlcleaner:2.26'
+    implementation 'com.jayway.jsonpath:json-path:2.7.0'
+    implementation 'org.jsoup:jsoup:1.15.3'
     implementation 'it.andreuzzi:CompareString2:1.0.9'
 }
